@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekken8NotationConverter", "Tekken8NotationConverter\Tekken8NotationConverter.csproj", "{893C93A0-3D1F-44BA-87DD-14FC5AE1E693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboNotationTests", "ComboNotationTests\ComboNotationTests.csproj", "{C691E06B-193D-4FC4-A915-B35C7B3578C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893C93A0-3D1F-44BA-87DD-14FC5AE1E693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893C93A0-3D1F-44BA-87DD-14FC5AE1E693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893C93A0-3D1F-44BA-87DD-14FC5AE1E693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893C93A0-3D1F-44BA-87DD-14FC5AE1E693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C691E06B-193D-4FC4-A915-B35C7B3578C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C691E06B-193D-4FC4-A915-B35C7B3578C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C691E06B-193D-4FC4-A915-B35C7B3578C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C691E06B-193D-4FC4-A915-B35C7B3578C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53BD7B3-5D64-43A3-B659-DE88061F7CE3}
+	EndGlobalSection
+EndGlobal
